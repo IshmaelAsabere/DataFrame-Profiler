@@ -1,1 +1,1 @@
-# Pandas-Profiler
+# DataFrame - Profiler
